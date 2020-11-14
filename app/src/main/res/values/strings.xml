@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MarkdownTask</string>
+    <string name="format_button">Format Text</string>
+    <string name="edit_button">Edit Text</string>
+</resources>
